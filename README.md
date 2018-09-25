@@ -1,0 +1,2 @@
+# OnlineTranslate
+这是用vue框架制作的一个在线翻译的网页
