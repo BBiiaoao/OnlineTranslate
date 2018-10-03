@@ -15,4 +15,5 @@
 >网页预览
 >
 ![在线翻译主页](https://github.com/BBiiaoao/OnlineTranslate/blob/master/screenshot/screenshot.png)
+----
 ![多种语言翻译选择](https://github.com/BBiiaoao/OnlineTranslate/blob/master/screenshot/screenshot2.png)
