@@ -14,4 +14,5 @@
 使用的是俄罗斯门户网站yandex免费的翻译接口(百度翻译接口也可以免费使用，但是需要认证等一系列操作，比较麻烦)
 >网页预览
 >
-![在线翻译]
+![在线翻译主页](https://github.com/BBiiaoao/OnlineTranslate/blob/master/screenshot/screenshot.png)
+![多种语言翻译选择](https://github.com/BBiiaoao/OnlineTranslate/blob/master/screenshot/screenshot2.png)
