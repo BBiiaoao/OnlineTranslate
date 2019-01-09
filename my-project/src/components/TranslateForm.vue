@@ -36,7 +36,7 @@
           if(this.textToTranslate==""){
             alert("记得填写内容呀！")
           };
-          this.$emit("formSubmit",this.textToTranslate,this.language)
+          this.$emit("formSubmit",this.textToTranslate,this.language);
           e.preventDefault();
         }
       },
