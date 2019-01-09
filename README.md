@@ -1,5 +1,5 @@
 # OnlineTranslate
-这是用vue框架制作的一个在线翻译的网页
+这是用vue框架制作的一个在线翻译的网页,已经部署在GitHub Pages 上了: [嘻嘻，点击查看](https://bbiiaoao.github.io/OnlineTranslate/my-project/dist/index)
 >布局
 >
 使用的是bootstrap响应式布局，需要联网才能导入css
